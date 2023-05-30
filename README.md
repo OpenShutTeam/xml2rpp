@@ -1,7 +1,9 @@
 # XML to RPP
 ## _Software for convert Adobe Premiere pro project (XML file) to REAPER project (RPP)_
 
-<a>hi</a>
+<div>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57" height="20" role="img" aria-label="DONATE"><title>DONATE</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="57" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="0" height="20" fill="#dfb317"/><rect x="0" width="57" height="20" fill="#dfb317"/><rect width="57" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="470">DONATE</text><text x="285" y="140" transform="scale(.1)" fill="#000" textLength="470">DONATE</text></g></svg>
+</div>
 
 [![N|Solid](https://img.shields.io/github/v/tag/OpenShutTeam/xml2rpp?color=blueviolet&label=Last%20version&style=plastic)](https://github.com/OpenShutTeam/xml2rpp/releases) [![N|Solid](https://img.shields.io/badge/Mac%20OS-10.14.6+-green?style=plastic)](https://github.com/OpenShutTeam/xml2rpp/releases) [![N|Solid](https://img.shields.io/badge/Win%20-10+-green?style=plastic)](https://github.com/OpenShutTeam/xml2rpp/releases) [![N|Solid](https://img.shields.io/website?label=%20&up_color=yellow&up_message=DONATE&url=https%3A%2F%2Fdenial.diaka.ua%2Fdonate)](https://denial.diaka.ua/donate)
 
