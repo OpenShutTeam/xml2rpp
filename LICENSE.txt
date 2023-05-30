@@ -1,0 +1,48 @@
+LICENSE AGREEMENT
+
+CAUTION: BEFORE USING THE XML TO RPP SOFTWARE, PLEASE READ THIS LICENSE AGREEMENT ("AGREEMENT") CAREFULLY. BY USING XML TO RPP, YOU AGREE TO ALL THE TERMS SET FORTH IN THIS AGREEMENT.
+
+1. License. In accordance with the terms of this Agreement, we grant the user a non-exclusive, non-transferable license to use the XML to RPP software (hereinafter referred to as the "Software") on one computer or server. You may use the Software only for personal or internal purposes of your company or organization.
+
+2. Intellectual property. You understand and agree that the Software is protected by copyright and other intellectual property laws. You acknowledge that this Agreement does not grant you any rights to use the trademarks, slogans or logos, software or binary code belonging to the developer of the Software.
+
+3. Restrictions. You may not rent, lease, sell, distribute or transfer the Software to third parties. You may not translate, modify, adapt, edit, create derivative works or decompile the Software, except as permitted by applicable law. Also, you cannot bypass software protection or software restrictions.
+
+4. Limitation of guarantees. The software is provided "as is" without warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. The developer is not responsible for any damage, direct or indirect, resulting from the use of the Software.
+
+5. Validity period. This Agreement enters into force from the moment of installation of the Software and continues until its removal or termination of the Agreement by the developer.
+
+6. Termination of the Agreement. The Developer may terminate this Agreement at any time if you fail to comply with any of the terms of the Agreement. After termination of the Agreement, you must stop using the Software and remove it from your computer or server.
+
+7. Other conditions. This Agreement is the entire agreement between you and the developer regarding the use of the Software and supersedes all prior or contemporaneous offers or agreements, oral or written, between you and the developer. If any provision of this Agreement is deemed invalid, this will not affect the validity of the remaining provisions. You may not transfer your rights and obligations under this Agreement without the prior written consent of the developer.
+
+8. This software is distributed over the Internet on a non-commercial basis. Donations for development are considered optional and voluntary.
+
+9. The license key, the so-called thank-you key (hereinafter - the "key") that you can receive after a voluntary donation is your personal key that expands the functionality of the program, this key is prohibited to transfer or sell to third parties. In cases of transmission, the key can be deactivated and blocked. The author issues the key at his discretion. This key is equivalent to the word: "Thank you for the voluntary donation".
+
+If you do not agree with the terms of this Agreement, you may not use the Software and must immediately delete your copy from your computer or server. If you have any questions related to this license, please contact the Software developer.
+
+
+ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ
+
+ВНИМАНИЕ: ПЕРЕД ИСПОЛЬЗОВАНИЕМ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ XML TO RPP, ПРОЧИТАЙТЕ ВНИМАТЕЛЬНО ЭТО ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ ("СОГЛАШЕНИЕ"). ИСПОЛЬЗУЯ XML TO RPP, ВЫ СОГЛАШАЕТЕСЬ СО ВСЕМИ УСЛОВИЯМИ, УКАЗАННЫМИ В ДАННОМ СОГЛАШЕНИИ.
+
+1.	Лицензия. В соответствии с условиями данного Соглашения, выдаем пользователю неисключительную, непередаваемую лицензию на использование программного обеспечения XML to RPP (далее - "Программное обеспечение") на одном компьютере или сервере. Вы можете использовать Программное обеспечение только для личных или внутренних целей вашей компании или организации.
+
+2.	Интеллектуальная собственность. Вы понимаете и соглашаетесь с тем, что Программное обеспечение защищено авторским правом и другими законами об интеллектуальной собственности. Вы признаете, что данное Соглашение не предоставляет вам каких-либо прав на использование товарных знаков, слоганов или логотипов, программного или бинарного кода принадлежащих разработчику Программного обеспечения.
+
+3.	Ограничения. Вы не можете арендовать, лизинговать, продавать, распространять или передавать Программное обеспечение третьим лицам. Вы не можете переводить, изменять, адаптировать, редактировать, создавать производные работы или декомпилировать Программное обеспечение, за исключением случаев, предусмотренных применимым законодательством. А также ви не можете обходить программную защиту или ограничение программного обеспечения.
+
+4.	Ограничение гарантий. Программное обеспечение предоставляется "как есть", без гарантий какого-либо вида, явных или подразумеваемых, включая, но не ограничиваясь гарантиями товарной пригодности, соответствия определенным целям и невыпадения из строя. Разработчик не несет ответственности за любой ущерб, прямой или косвенный, возникший в результате использования Программного обеспечения.
+
+5.	Срок действия. Данное Соглашение вступает в силу с момента установки Программного обеспечения и продолжает действовать до его удаления или прекращения Соглашения со стороны разработчика.
+
+6.	Прекращение Соглашения. Разработчик может прекратить данное Соглашение в любое время, если вы не соблюдаете какое-либо из условий Соглашения. После прекращения Соглашения вы должны прекратить использование Программного обеспечения и удалить его с компьютера или сервера.
+
+7.	Прочие условия. Данное Соглашение является полным соглашением между вами и разработчиком относительно использования Программного обеспечения и заменяет все предыдущие или одновременные предложения или соглашения, устные или письменные, между вами и разработчиком. Если какое-либо положение данного Соглашения будет признано недействительным, это не повлияет на действительность остальных положений. Вы не можете передавать свои права и обязательства по данному Соглашению без предварительного письменного согласия разработчика.
+
+8.	Данное программное обеспечение распространяется через сеть интернет на некоммерческой основе. Пожертвования на разработку являются не обязательными и добровольными.
+
+9.	Лицензионный ключ так званый благодарственный ключ (key) (далее - "ключ") который вы можете получить после добровольного пожертвования является вашим личным ключом, который расширяет функционал программы, данный ключ запрещается передавать ил продавать третьим лицам. В случаи передачи ключ может быть деактивированный и заблокирован. Автор выдает ключ по своему усмотрению. Даний ключ приравнивается к слову: «Спасибо за добровольное пожертвование».
+
+Если вы не согласны с условиями данного Соглашения, вы не можете использовать Программное обеспечение и обязаны немедленно удалить свою копию компьютера или сервера. В случае возникновения любых вопросов, связанных с данной лицензией, пожалуйста, обращайтесь к разработчику Программного обеспечения.
