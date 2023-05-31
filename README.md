@@ -4,8 +4,10 @@
 [![N|Solid](https://i.ibb.co/7zKJT2g/donate.png)](https://denial.diaka.ua/donate) [![N|Solid](https://img.shields.io/github/v/tag/OpenShutTeam/xml2rpp?color=blueviolet&label=Last%20version&style=plastic)](https://github.com/OpenShutTeam/xml2rpp/releases) [![N|Solid](https://img.shields.io/badge/Mac%20OS-10.14.6+-green?style=plastic)](https://github.com/OpenShutTeam/xml2rpp/releases) [![N|Solid](https://img.shields.io/badge/Win%20-10+-green?style=plastic)](https://github.com/OpenShutTeam/xml2rpp/releases)
 
 EN: Support for operating systems Mac OS 10.14.6, Windows 10, 11 and above.
+
 UA: Підтримка операційних систем Mac OS 10.14.6, Windows 10, 11 та вище.
 
+<img src="https://i.ibb.co/gWwKqQ9/xml-to-rpp.png" alt="xml-to-rpp" border="0">
 
 ## Functional
 language: еnglish, українська, polski.
