@@ -1,7 +1,7 @@
 # XML to RPP
 ## _Software for convert Adobe Premiere pro project (XML file) to REAPER project (RPP)_
 ##
-[![N|Solid](https://i.ibb.co/7zKJT2g/donate.png)]([https://denial.diaka.ua/donate](https://www.donationalerts.com/r/denial_steinberg)) [![N|Solid](https://img.shields.io/github/v/tag/OpenShutTeam/xml2rpp?color=blueviolet&label=Last%20version&style=plastic)](https://github.com/OpenShutTeam/xml2rpp/releases) [![N|Solid](https://img.shields.io/badge/Mac%20OS-10.14.6+-green?style=plastic)](https://github.com/OpenShutTeam/xml2rpp/releases) [![N|Solid](https://img.shields.io/badge/Win%20-10+-green?style=plastic)](https://github.com/OpenShutTeam/xml2rpp/releases)
+[![N|Solid](https://i.ibb.co/7zKJT2g/donate.png)]([[https://denial.diaka.ua/donate](https://www.donationalerts.com/r/denial_steinberg)](https://www.donationalerts.com/r/denial_steinberg)) [![N|Solid](https://img.shields.io/github/v/tag/OpenShutTeam/xml2rpp?color=blueviolet&label=Last%20version&style=plastic)](https://github.com/OpenShutTeam/xml2rpp/releases) [![N|Solid](https://img.shields.io/badge/Mac%20OS-10.14.6+-green?style=plastic)](https://github.com/OpenShutTeam/xml2rpp/releases) [![N|Solid](https://img.shields.io/badge/Win%20-10+-green?style=plastic)](https://github.com/OpenShutTeam/xml2rpp/releases)
 
 EN: Support for operating systems Mac OS 10.14.6, Windows 10, 11 and above.
 
