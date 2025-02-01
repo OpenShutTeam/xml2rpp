@@ -1,5 +1,5 @@
-# XML to RPP
-## _Software for convert Adobe Premiere pro project (XML file) to REAPER project (RPP)_
+# XML to RPP 2
+## _Software for convert Adobe Premiere pro project or DaVinci Resolve or Final Cut 7 (XML file) to REAPER project (RPP)_
 ##
 [![N|Solid](https://i.ibb.co/7zKJT2g/donate.png)](https://www.donationalerts.com/r/denial_steinberg)
 [![N|Solid](https://img.shields.io/github/v/tag/OpenShutTeam/xml2rpp?color=blueviolet&label=Last%20version&style=plastic)](https://github.com/OpenShutTeam/xml2rpp/releases)
@@ -23,6 +23,7 @@ EN:
 - Support for disabled fragments (only for those who made a voluntary charitable contribution for the development of the project and received a key)
 - Support for fades (only for those who made a voluntary charitable contribution for the development of the project and received a key)
 - Support for the volume level of fragments (only for those who made a voluntary charitable contribution for the development of the project and received a key)
+- Support for video files (only for those who made a voluntary charitable contribution for the development of the project and received a key)
 
 UA: 
 - Підтримка таймлайну (доріжки, позиція фрагментів та їх обрізка)
@@ -31,6 +32,7 @@ UA:
 - Підтримка вимклених фрагментів (тільки для тих хто зрибив добровільний благодійний внесок для розвитку проєкту та отримав ключ)
 - Підтримка фейдів (тільки для тих хто зрибив добровільний благодійний внесок для розвитку проєкту та отримав ключ)
 - Підтримка рівня гучності фрагментів (тільки для тих хто зробив добровільний благодійний внесок для розвитку проєкту та отримав ключ)
+- Підтримка відео файлів (тільки для тих хто зробив добровільний благодійний внесок для розвитку проєкту та отримав ключ)
 
 ## Donate
 EN: This project is not commercial, all collected funds go to software development. Voluntary charitable contribution is not mandatory but strongly influences the author's motivation. I will be very glad for your support. Thank you!
