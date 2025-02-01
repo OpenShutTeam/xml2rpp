@@ -1,5 +1,5 @@
 # XML to RPP 2
-## _Software for convert Adobe Premiere pro project or DaVinci Resolve or Final Cut 7 (XML file) to REAPER project (RPP)_
+## _Software for convert Adobe Premiere Pro project or DaVinci Resolve or Final Cut 7 (XML file) to REAPER project (RPP)_
 ##
 [![N|Solid](https://i.ibb.co/7zKJT2g/donate.png)](https://www.donationalerts.com/r/denial_steinberg)
 [![N|Solid](https://img.shields.io/github/v/tag/OpenShutTeam/xml2rpp?color=blueviolet&label=Last%20version&style=plastic)](https://github.com/OpenShutTeam/xml2rpp/releases)
