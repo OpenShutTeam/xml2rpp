@@ -11,7 +11,7 @@ EN: Support for operating systems Mac OS 10.14.6, Windows 10, 11 and above.
 
 UA: Підтримка операційних систем Mac OS 10.14.6, Windows 10, 11 та вище.
 
-<img src="https://i.ibb.co/JR7tTxNC/xml-to-rpp2.png" alt="xml-to-rpp2" style="width:100%;">
+<img src="https://i.ibb.co/JR7tTxNC/xml-to-rpp2.png" alt="xml-to-rpp2" style="height:100%;">
 
 ## Functional
 language: еnglish, українська, polski.
